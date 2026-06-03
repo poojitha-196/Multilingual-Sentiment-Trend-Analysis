@@ -1,6 +1,6 @@
-This is the **XLM-T** repository, which includes data, code and pre-trained multilingual language models for Twitter.
+This is the repository, which includes data, code and pre-trained multilingual language models for Twitter.
 
-# XLM-T - A Multilingual Language Model Toolkit for Twitter
+# Multilingual Language Model Toolkit for Twitter
 
 As explained in the [reference paper](https://arxiv.org/abs/2104.12250), we make start from [XLM-Roberta base](https://huggingface.co/docs/transformers/model_doc/xlm-roberta) and continue pre-training on a large corpus of Twitter in multiple languages. This masked language model, which we named `twitter-xlm-roberta-base` in the 🤗Huggingface hub, can be downloaded from [here](https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base). 
 
